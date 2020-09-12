@@ -1,4 +1,4 @@
-
+ 
 public class BankAcc {
 	public static void main(String[] args) {
 		Account artosAccount = new Account("Astro Acc", 100.00);
