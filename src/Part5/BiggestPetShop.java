@@ -1,0 +1,13 @@
+package Part5;
+
+
+public class BiggestPetShop {
+	
+	public static void main(String[] args) {
+		Pet lucy = new Pet("Lucy", "golden retriever");
+		Person leo = new Person("Leo", lucy);
+
+		System.out.println(leo);
+	}
+}
+ 
